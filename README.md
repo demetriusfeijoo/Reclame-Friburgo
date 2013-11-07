@@ -1,4 +1,4 @@
 Reclame-Friburgo
 ================
 
-Plataforma de relatação de problemas na infraestrutura urbana.
+Plataforma de relatação sobre problemas na infraestrutura urbana.
