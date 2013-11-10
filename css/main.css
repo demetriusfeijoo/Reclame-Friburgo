@@ -1,0 +1,37 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* Topo */
+.brand{display: block;float: left;margin: 0;}
+.navbar .container{position:relative;}
+.nav{float:left;}
+.new-thread{color:#fff;margin-top: 8px;position: absolute;right: 0;}
+
+/* Início */
+.listagem{list-style-type: none;width: 80%;}
+.item {margin-bottom: 20px;}
+
+.article{ padding: 10px;}
+.article-title{ word-wrap:break-word;}
+.article-link:hover{ text-decoration: none; }
+.article-image{ float:left;margin: 0 10px 10px 0; }
+.article-excerpt{ text-align: justify; }
+.article-data{ float: right; }
+
+/* Contato */
+.contato-form{ width: 80%; }
+
+/* Pagina da reclamacao */
+.reclamacao .container{ width:80%;}
+
+/* Nova reclamacao */
+.nova-reclamacao .container{ width:80%;}
+.nova-reclamacao .reclamacao-form small{color: #fff;margin-left: 2em;}
+.nova-reclamacao .reclamacao-form .cadastre-se{ color:#fff; }
+
+/* Cadastre-se */
+.cadastro-usuario .container{ width:80%;}
+.cadastro-usuario{margin-top:20px;}
